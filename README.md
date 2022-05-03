@@ -30,6 +30,5 @@ Felipe Zepeda: Más trabajo en equipo y trabajar directo en el codigo.
 (4) Puntos de premio/castigo:
 
 Integrante Nicolas: 0
-Integrante Arturo: 0
 Integrante Sebastian: 0
 Integrante Felipe: 0
